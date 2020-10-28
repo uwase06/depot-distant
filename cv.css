@@ -1,0 +1,17 @@
+.infos{
+    text-align: left;
+}
+     
+
+h3,h1{
+    padding: 0 ;
+    margin: 0;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 2px solid black;
+    color: cornflowerblue;
+}
+#compenténces{
+    color: darkblue;
+    
+}
